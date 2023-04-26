@@ -6,4 +6,4 @@ Ferramentas Utilizada:
 * CSS
 * Flex-box 
 
-Linkedln: https:www.linkedin.com/in/contatowillalves
+Linkedln: https://www.linkedin.com/in/contatowillalves
