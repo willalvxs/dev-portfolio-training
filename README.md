@@ -1,9 +1,7 @@
-# Portfolio
-Projeto desenvolvido pelos cursos da Alura. 
-Ferramentas Utilizada:
+# Hey Guys! 👋
 
-* HTML
-* CSS
-* Flex-box 
+This is one of the projects developed in partnership with Alura de Portfolio.
 
-Linkedln: https://www.linkedin.com/in/contatowillalves
+Skills used in this project:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,vercel)](https://skillicons.dev)
